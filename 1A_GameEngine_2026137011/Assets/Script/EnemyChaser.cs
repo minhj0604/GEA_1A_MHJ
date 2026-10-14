@@ -40,5 +40,4 @@ public class EnemyChaser : MonoBehaviour
             player.GetComponent<Health>().TakeDamage(damage);
         }
     }
-
 }
